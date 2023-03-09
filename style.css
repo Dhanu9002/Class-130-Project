@@ -1,0 +1,40 @@
+.title{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+
+.size{
+    font-size: 17px;
+    color: rgb(43, 226, 150);
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 50px;
+    padding: 20px;
+    margin: 5px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.div_speed{
+    float: left;
+}
+
+.speed_image{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.volume_image{
+    width: 200px;
+    border-radius: 100px;
+}
+
